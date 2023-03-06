@@ -1,3 +1,4 @@
+                         //1
 // function findMax(arr) {
 //     let max = arr[0]; // set the maximum to the first element
 
@@ -13,7 +14,7 @@
 //   let arr=[1,2,3,3,4,5,6];
 //   let maximum=findMax(arr);
 //   console.log(maximum)
-
+                         //2
 // let arr = [1,2,3,4,5,6];
 // let maximum=Math.max(...arr);
 // console.log(maximum);
@@ -53,7 +54,7 @@
 // let arr=[98,5,4,88,1];
 // let minimum = findMin(arr);
 // console.log(minimum);
-
+    //3
 // function findMax(array){
 //     let max= array[0];
 //     for(let i =0;i<array.length;i++){
@@ -82,7 +83,7 @@
 //     }
 // }
 
-//write a program to print the sum of even number from 2 to 50
+// 4write a program to print the sum of even number from 2 to 50
 
 // let sum=0;
 // for(let i=0;i<=50;i++){
@@ -93,7 +94,7 @@
 // }
 // console.log("GrandSum=",sum)
 
-//write a program to print the sum of given series 1+2+3 to 49
+// 5write a program to print the sum of given series 1+2+3 to 49
 
 // let sum = 0;
 // for (let i =1;i<=49;i++){
@@ -161,7 +162,7 @@
 // let maximum = findMax(array);
 // console.log(maximum);
 
-//write a program that print the sum of series 1^2 2^2 3^2 .,...10^2
+// 6write a program that print the sum of series 1^2 2^2 3^2 .,...10^2
 
 //   let sum = 0;
 
@@ -171,7 +172,7 @@
 //   }
 //   console.log(sum);
 
-//                    // write a program to print all two digit odd number and their sum
+//                    //7 write a program to print all two digit odd number and their sum
 // let sum =0;
 // for(let i=10;i<=99;i++){
 //     if(i%2==1){
@@ -181,7 +182,7 @@
 // }
 // console.log(sum)
 
-// write a program that print all two digit even numbar and their sum
+// 8write a program that print all two digit even numbar and their sum
 
 // let sum =  0;
 // for(let i =10;i<=99;i++){
@@ -194,7 +195,7 @@
 // }
 // console.log(sum);
 
-// 27 feb
+// 9
 
 // let num1 = 10;
 // let num2 =5;
@@ -204,7 +205,7 @@
 // }
 // console.log(sum)
 
-//factorial
+//10factorial
 
 //     let num = 5;
 // let fact=1;
@@ -214,7 +215,7 @@
 
 // console.log("factorial of num is " ,fact)
 
-// create table for any number
+//11 create table for any number
 
 // let num =10;
 
@@ -223,7 +224,7 @@
 //   console.log(`${num}*${i}=${product}`)
 // }
 
-//    *
+//  12  *
 //    **
 //    ***
 //    ****
@@ -237,7 +238,7 @@
 // }
 
 
-// 1
+//13 1
 // 12
 // 123
 // 1234
@@ -249,7 +250,7 @@
 //     }
 //     console.log("\n")
 // }
-
+   //14
 // *****
 // ****
 // ***
@@ -263,7 +264,7 @@
 //     }
 //     console.log("\n");
 // }
-
+//15
 // 12345
 // 1234
 // 123
